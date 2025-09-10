@@ -4,9 +4,12 @@
   "private": true,
   "dependencies": {
     "@contentful/app-sdk": "^4.29.1",
-    "@contentful/f36-components": "4.79.1",
+    "@contentful/f36-components": "^4.79.1",
+    "@contentful/f36-multiselect": "^5.1.1",
     "@contentful/f36-tokens": "4.2.0",
     "@contentful/react-apps-toolkit": "1.2.16",
+    "@google/genai": "^1.17.0",
+    "@google/generative-ai": "^0.24.1",
     "contentful-management": "10.46.4",
     "emotion": "10.0.27",
     "react": "18.3.1",
